@@ -18,4 +18,4 @@
 ![contact](https://img.shields.io/static/v1?label=&message=Contact%3A&color=111&style=flat-square)
 ![contact1](https://img.shields.io/static/v1?logo=github&label=&message=lwcask&color=555&logoColor=AAA&style=flat-square)
 ![contact2](https://img.shields.io/static/v1?logo=protonmail&label=&message=malt1@protonmail.com&color=555&logoColor=AAA&style=flat-square)
-![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=Lucas47%236171&color=555&logoColor=AAA&style=flat-square)
+![contact3](https://img.shields.io/static/v1?logo=discord&label=&message=Lucas47%230007&color=555&logoColor=AAA&style=flat-square)
